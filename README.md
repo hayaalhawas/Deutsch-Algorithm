@@ -13,7 +13,8 @@ constant means f always outputs the same bit, i.e. f(0) = f(1), and balanced mea
 on different inputs, i.e. f(0) /= f(1).
 
 
-<img width="429" alt="image" src="https://github.com/hayaalhawas/Deutsch-Algorithm/assets/109044183/2d8ee080-0026-4815-93af-dafc1d42b693">
+![duc](https://github.com/hayaalhawas/Deutsch-Algorithm/assets/109044183/2da21d2d-750c-402e-97b2-277186eab6b4)
+
 
 ## Task 📝
 
