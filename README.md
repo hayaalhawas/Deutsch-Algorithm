@@ -15,7 +15,7 @@ In this task Immerse in practical Qiskit experience, you are required to impleme
 <img width="429" alt="image" src="https://github.com/hayaalhawas/Deutsch-Algorithm/assets/109044183/2d8ee080-0026-4815-93af-dafc1d42b693">
 
 
-
+https://people.vcu.edu/~sgharibian/courses/CMSC491/notes/Lecture%206%20-%20Deutsch's%20algorithm.pdf
 ### Steps:
 1. by Study the Deutsch algorithm you understand its working.
 2. Design a quantum circuit to create a balanced oracle for the problem.
